@@ -1,0 +1,27 @@
+{
+  "name": "hardhat-ecosystem-harness",
+  "version": "0.0.1",
+  "description": "Hardhat deployment harness + tooling ecosystem",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist", "docs", "examples"],
+  "keywords": ["hardhat", "ethereum", "ethers", "deployment", "devtools"],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "clean": "rm -rf dist",
+    "lint": "node -e \"console.log('lint: TODO')\"",
+    "test": "node -e \"console.log('test: TODO')\""
+  },
+  "peerDependencies": {
+    "hardhat": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.5.0"
+  }
+}

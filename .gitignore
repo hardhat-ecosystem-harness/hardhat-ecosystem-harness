@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.cache/
+.DS_Store
+
+# default: ignore timestamped run deployments (keep named deployments committed)
+deployments/runs/
+
+# secrets
+.env
+.env.*
