@@ -1,6 +1,7 @@
 # ops/ — Index (hardhat-ecosystem-harness)
 
 ## Canonical context nodes
+- `ops/WORKING-CONTEXT.md`
 - `docs/GOALS.md` — principles / non-negotiables
 - `docs/DESIGN.md` — working design doc
 
