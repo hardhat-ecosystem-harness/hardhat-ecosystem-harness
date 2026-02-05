@@ -8,5 +8,8 @@
 - Normalized schema vs legacy chainId-keyed schema: what do we support?
 - How heavy do we allow state to become (tx receipts inline vs summaries)?
 
+## Decisions
+- `decisions/DEC-0001-named-vs-runs-and-git-policy.md`
+
 ## Links
 - docs: docs/DESIGN.md

@@ -5,11 +5,11 @@
 - Default branch: `master`
 
 ## Local working directory (OpenClaw host)
-- Path: `/home/sirGranite/.openclaw/workspace/hardhat-ecosystem-harness`
+- Path: `/home/sirGranite/context/hardhat-ecosystem-harness`
 
 ## Git workflow
 ```bash
-cd /home/sirGranite/.openclaw/workspace/hardhat-ecosystem-harness
+cd /home/sirGranite/context/hardhat-ecosystem-harness
 
 git status
 # edit files
@@ -27,3 +27,9 @@ git push
 ## Canonical context nodes
 - `ops/INDEX.md`
 - `ops/WORKING-CONTEXT.md` (this file)
+- `ops/CONTEXT-MANIFEST.json`
+- `ops/THREADS-PROTOCOL.md`
+- `docs/GOALS.md`
+- `docs/SCOPE.md`
+- `docs/DESIGN.md`
+- `docs/THREADS.md`
