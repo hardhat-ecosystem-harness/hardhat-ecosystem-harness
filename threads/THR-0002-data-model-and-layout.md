@@ -10,6 +10,8 @@
 
 ## Decisions
 - `decisions/DEC-0001-named-vs-runs-and-git-policy.md`
+- `decisions/DEC-0002-state-schema-shape.md`
+- `decisions/DEC-0005-receipts-storage-policy.md`
 
 ## Links
 - docs: docs/DESIGN.md

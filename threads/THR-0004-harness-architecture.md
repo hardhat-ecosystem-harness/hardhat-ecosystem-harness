@@ -8,5 +8,8 @@
 - Configuration API surface: TS modules only? how to validate?
 - Section interface: what helpers/state guarantees?
 
+## Decisions
+- `decisions/DEC-0004-branch-chain-config-selection.md`
+
 ## Links
 - docs: docs/DESIGN.md
