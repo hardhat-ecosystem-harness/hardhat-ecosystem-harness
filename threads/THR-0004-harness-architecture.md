@@ -10,6 +10,7 @@
 
 ## Decisions
 - `decisions/DEC-0004-branch-chain-config-selection.md`
+- `decisions/DEC-0006-state-mutation-via-namespace.md`
 
 ## Links
 - docs: docs/DESIGN.md
