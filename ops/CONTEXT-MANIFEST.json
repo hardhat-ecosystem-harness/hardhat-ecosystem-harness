@@ -7,10 +7,10 @@
     "ops/THREADS-PROTOCOL.md",
     "docs/GOALS.md",
     "docs/SCOPE.md",
-    "docs/DESIGN.md",
     "docs/THREADS.md"
   ],
   "optional": [
-    "research/LOG.md"
+    "research/LOG.md",
+    "docs/appendices/DESIGN-NARRATIVE-2026-02-10.md"
   ]
 }

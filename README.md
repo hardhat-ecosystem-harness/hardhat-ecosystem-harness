@@ -10,7 +10,6 @@ Core ideas:
 
 Docs:
 - `docs/GOALS.md` — high-level design goals / principles
-- `docs/DESIGN.md` — working design doc
 
 Examples:
 - `examples/polygon-137.example.state.json`

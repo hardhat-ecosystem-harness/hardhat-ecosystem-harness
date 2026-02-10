@@ -31,5 +31,4 @@ git push
 - `ops/THREADS-PROTOCOL.md`
 - `docs/GOALS.md`
 - `docs/SCOPE.md`
-- `docs/DESIGN.md`
 - `docs/THREADS.md`
